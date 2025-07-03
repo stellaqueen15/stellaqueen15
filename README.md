@@ -7,12 +7,8 @@
 - 🌐 Portfolio: [https://brenda-portfolio-theta.vercel.app/](https://brenda-portfolio-theta.vercel.app/)
 - 📫 Reach me at: [brendakmpro@gmail.com](mailto:brendakmpro@gmail.com)
 
-<!-- You can uncomment this later -->
-<!-- ## 📊 GitHub Stats
-![Brenda's GitHub stats](https://github-readme-stats.vercel.app/api?username=stellaqueen15&show_icons=true&theme=rose_pine) -->
-
 ## 🧮 Some Numbers
-![GitHub Streak](https://streak-stats.demolab.com/?user=stellaqueen15&theme=rose_pine&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=stellaqueen15&layout=compact&theme=rose_pine&hide_border=true)
 
 
 ## 🧰 Tech Stack I Love

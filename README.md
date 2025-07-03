@@ -12,7 +12,7 @@
 ![Brenda's GitHub stats](https://github-readme-stats.vercel.app/api?username=stellaqueen15&show_icons=true&theme=rose_pine) -->
 
 ## 🧮 Some Numbers
-![GitHub Streak](https://streak-stats.demolab.com?user=stellaqueen15&theme=rose_pine&hide_border=true)
+![GitHub Streak](https://streak-stats.demolab.com/?user=stellaqueen15&theme=rose_pine&hide_border=true)
 
 
 ## 🧰 Tech Stack I Love

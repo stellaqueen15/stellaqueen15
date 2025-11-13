@@ -2,7 +2,7 @@
 
 💻 Junior Developer | Passionate about web & digital creativity
 
-- 📚 Currently learning: Laravel, and deepening my skills in software development  
+- 📚 Currently learning: Laravel, Shopify and deepening my skills in software development  
 - 🎯 2025 Goal: Launch my own meaningful tech project
 - 🌐 Portfolio: [https://brenda-portfolio-theta.vercel.app/](https://brenda-portfolio-theta.vercel.app/)
 - 📫 Reach me at: [brendakmpro@gmail.com](mailto:brendakmpro@gmail.com)

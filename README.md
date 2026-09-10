@@ -43,7 +43,7 @@ I enjoy building modern, accessible and responsive web experiences while paying 
 
 My personal portfolio built with **Next.js, TypeScript and Tailwind CSS**, focused on showcasing my projects, experience and frontend skills.
 
-🌐 **Portfolio:** https://brenda-portfolio-theta.vercel.app/
+🌐 **Portfolio:** [https://brenda-portfolio-theta.vercel.app/](https://portfolio-brendakm.vercel.app/)
 
 ## 📊 GitHub Stats
 

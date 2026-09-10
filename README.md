@@ -1,22 +1,54 @@
 # Hey, I'm Brenda 👋
 
-💻 Junior Developer | Passionate about web & digital creativity
+💻 **Junior Frontend Developer** passionate about web development, UI/UX and digital creativity.
 
-- 📚 Currently learning: Laravel, Shopify and deepening my skills in software development  
-- 🎯 2025 Goal: Launch my own meaningful tech project
-- 🌐 Portfolio: [https://brenda-portfolio-theta.vercel.app/](https://brenda-portfolio-theta.vercel.app/)
-- 📫 Reach me at: [brendakmpro@gmail.com](mailto:brendakmpro@gmail.com)
+I enjoy building modern, accessible and responsive web experiences while paying attention to both **design and user experience**.
 
-## 🧮 Some Numbers
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=stellaqueen15&layout=compact&theme=rose_pine&hide_border=true)
+## 🚀 About me
 
+* 🎓 DEC in Computer Science — Collège Ahuntsic
+* 💼 Currently working as a Junior Web Developer
+* 🎨 Interested in frontend development, UI/UX and design systems
+* 🌱 Currently deepening my skills in React, Next.js, Vue.js and modern web development
+* ✨ I love turning Figma designs into interactive, polished interfaces
 
-## 🧰 Tech Stack I Love
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react)
-![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat&logo=css3)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
-![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php&logoColor=white)
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+## 🛠️ Tech Stack
+
+**Frontend**
+
+* React
+* Next.js
+* Vue.js
+* TypeScript
+* JavaScript
+* HTML / CSS
+* Tailwind CSS
+
+**Backend**
+
+* PHP
+* Laravel
+* MySQL
+
+**Tools & Design**
+
+* Git / GitHub
+* Figma
+* Framer Motion
+* Responsive & accessible UI
+
+## 📌 Featured Project
+
+### 🎨 My Portfolio
+
+My personal portfolio built with **Next.js, TypeScript and Tailwind CSS**, focused on showcasing my projects, experience and frontend skills.
+
+🌐 **Portfolio:** https://brenda-portfolio-theta.vercel.app/
+
+## 📊 GitHub Stats
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=stellaqueen15\&layout=compact\&theme=rose_pine\&hide_border=true)
 
 ## 💡 Fun fact
+
 > I'm 1000x more productive when I have a podcast playing in the background 🎧

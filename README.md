@@ -45,10 +45,6 @@ My personal portfolio built with **Next.js, TypeScript and Tailwind CSS**, focus
 
 🌐 **Portfolio:** [https://brenda-portfolio-theta.vercel.app/](https://portfolio-brendakm.vercel.app/)
 
-## 📊 GitHub Stats
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=stellaqueen15\&layout=compact\&theme=rose_pine\&hide_border=true)
-
 ## 💡 Fun fact
 
 > I'm 1000x more productive when I have a podcast playing in the background 🎧

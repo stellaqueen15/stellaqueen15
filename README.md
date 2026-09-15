@@ -6,7 +6,7 @@ I enjoy building modern, accessible and responsive web experiences while paying 
 
 ## 🚀 About me
 
-* 🎓 DEC in Computer Science — Collège Ahuntsic
+* 🎓 DEC in Computer Science
 * 💼 Currently working as a Junior Web Developer
 * 🎨 Interested in frontend development, UI/UX and design systems
 * 🌱 Currently deepening my skills in React, Next.js, Vue.js and modern web development

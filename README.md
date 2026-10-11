@@ -1,50 +1,50 @@
 # Hey, I'm Brenda 👋
 
-💻 **Junior Frontend Developer** passionate about web development, UI/UX and digital creativity.
+💻 **Full Stack Developer** passionate about building modern web applications, crafting intuitive user experiences, and exploring creative solutions to technical challenges.
 
-I enjoy building modern, accessible and responsive web experiences while paying attention to both **design and user experience**.
+I enjoy working across the stack, from designing polished, responsive interfaces to developing backend logic, APIs, and database-driven features. With a strong interest in frontend development and UI/UX, I love bringing ideas to life through clean, functional, and engaging digital experiences.
 
-## 🚀 About me
+## 🚀 About Me
 
-* 🎓 DEC in Computer Science
-* 💼 Currently working as a Junior Web Developer
-* 🎨 Interested in frontend development, UI/UX and design systems
-* 🌱 Currently deepening my skills in React, Next.js, Vue.js and modern web development
-* ✨ I love turning Figma designs into interactive, polished interfaces
+- 🎓 DEC in Computer Science
+- 💼 Working as a Full Stack Developer
+- 🧩 Interested in web application development, API integrations, and software architecture
+- 🎨 Passionate about frontend development, UI/UX, and design systems
+- 🌱 Continuously exploring modern technologies and improving my development skills
+- ✨ I enjoy turning ideas and designs into complete, interactive web experiences
 
 ## 🛠️ Tech Stack
 
-**Frontend**
+**Frontend Development**
+- React
+- Next.js
+- Vue.js
+- TypeScript
+- JavaScript
+- HTML5 / CSS3
+- Tailwind CSS
 
-* React
-* Next.js
-* Vue.js
-* TypeScript
-* JavaScript
-* HTML / CSS
-* Tailwind CSS
+**Backend Development**
+- PHP
+- Laravel
+- REST APIs
+- MySQL
 
-**Backend**
-
-* PHP
-* Laravel
-* MySQL
-
-**Tools & Design**
-
-* Git / GitHub
-* Figma
-* Framer Motion
-* Responsive & accessible UI
+**Tools & Technologies**
+- Git / GitHub
+- Figma
+- Framer Motion
+- Responsive & accessible design
+- API integration
 
 ## 📌 Featured Project
 
 ### 🎨 My Portfolio
 
-My personal portfolio built with **Next.js, TypeScript and Tailwind CSS**, focused on showcasing my projects, experience and frontend skills.
+My personal portfolio, built with **Next.js, TypeScript, and Tailwind CSS**, showcasing my projects, technical skills, and approach to web development.
 
-🌐 **Portfolio:** [https://brenda-portfolio-theta.vercel.app/](https://portfolio-brendakm.vercel.app/)
+🌐 **[Visit My Portfolio](https://portfolio-brendakm.vercel.app/)**
 
-## 💡 Fun fact
+## 💡 Fun Fact
 
 > I'm 1000x more productive when I have a podcast playing in the background 🎧
